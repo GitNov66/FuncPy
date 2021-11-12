@@ -9,7 +9,7 @@ setup(
     name="FuncPy",
     version="0.0.1",
     author="GitNov66 company",
-    author_email="novaus65@gmail.com",
+    author_email="kivy156@gmail.com",
     description='''s library is a collection of activation functions for a neural network.
 This library contains the following functions
 binary_step
